@@ -1,0 +1,12 @@
+Errors Found-
+1.Ln3-target, instead of targ
+2.Ln3-***, instead of **
+3.Ln5-ranges->range, Colon req
+4.Ln6-ranges->range, Colon req
+5.Ln7-targ->target, ***->**, Colon req
+6.Ln8-#sol->solutions, No semicolon req(Will still work)
+7.Ln9-#sol->solutions
+8.Ln12-1729->1728
+9.Ln13-printf->print, No comma
+10.Ln14-#pair->pairs, Colon req
+11.Ln16-printf->print, a*2->a**3,b*2->b**3
